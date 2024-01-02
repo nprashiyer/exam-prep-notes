@@ -79,5 +79,5 @@ http_output:
   url: https://url/path
 ```
 
-For any changes to rule/configuration to take effect, Falco must be restarted
+For any changes to rule/configuration to take effect, Falco must be restarted.
 
